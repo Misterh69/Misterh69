@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Matheus Henrique (alias: Mathius)
 
-<!--
-**Misterh69/Misterh69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Si todo estuviera regalado, ¿cuál sería la gracia?"*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre mí
+Me gusta la tecnología, la informática y todo este mundillo en general.  
+Siempre estoy buscando aprender más y mejorar mis habilidades.
+
+---
+
+## 🛠️ Habilidades
+- Java  
+- JavaScript  
+- PHP  
+- *(y más por venir...)*
+
+---
+
+## 📂 Proyectos
+De momento no tengo proyectos publicados, ¡pero pronto empezaré a compartirlos aquí! 🚀  
+
+---
+
+## 📫 Contacto
+- ✉️ Email: **mh3884889@gmail.com**  
+
+---
+
+## 🖼️ Imagen / Avatar
+![Tu imagen aquí](https://upload.wikimedia.org/wikipedia/commons/1/1f/Spider-man_Tom_Holland_logo_red.png)
+
+*(Reemplaza `URL_DE_TU_IMAGEN` por el enlace directo a tu avatar, logo o foto)*
+
+---
+
+✨ *Gracias por visitar mi perfil, pronto habrá más contenido aquí.*
